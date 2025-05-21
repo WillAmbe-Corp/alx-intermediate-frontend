@@ -1,0 +1,4 @@
+Step 1: Create an empty folder 
+Step 2: Open the folder inside VS Code 
+Step 3: Open VS Code terminal
+Step 4: Inside the terminal, run "npm install -g sass"
