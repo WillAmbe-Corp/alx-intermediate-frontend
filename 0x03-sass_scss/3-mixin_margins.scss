@@ -1,0 +1,10 @@
+@mixin background ($value){
+    margin-left: $value;
+    margin-right: $value;
+}
+body{
+    @include background($value: 10px);
+}
+div{
+    @include background($value: 15px);
+}
