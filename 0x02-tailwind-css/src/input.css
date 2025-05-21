@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind component;
+@tailwind utilities;
+
+@media (max-width: 768px){
+    main{grid-template-columns: 1fr;}
+}
